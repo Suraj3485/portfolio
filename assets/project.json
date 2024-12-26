@@ -1,0 +1,99 @@
+{
+    "project": [
+        {
+            "title": "Benchmarking and performance analysis of x86 and Apple ARM Architecture",
+            "descr": "Analysing performance and power efficiency of x86 and Apple ARM Architecture.",
+            "image_link": "assets/img/portfolio/p1.jpg",
+            "details": {
+                "title": "Benchmarking and performance analysis of x86 and Apple ARM Architecture",
+                "description": "This project focuses on benchmarking and analyzing the performance of x86 and Apple ARM architectures to evaluate their efficiency and scalability. It examines key factors like CPU and GPU performance, memory hierarchy, pipeline design, and branch prediction. Real-world application workloads are tested to assess suitability for diverse computing tasks. The study also explores power consumption, heat generation, and overclocking capabilities. Insights into architectural strengths and optimization strategies are highlighted. The project aims to provide a comprehensive understanding of trade-offs between these architectures for various computational scenarios.",
+                "category": "Computer Architecture",
+                "project_date": "Dec 10 2024",
+                "url": "https://docs.google.com/document/d/1DgQIkJp_07UntbbeuG7VQQlK1u5draEE4CyfhejUYEs/edit?usp=sharing",
+                "images": ["assets/img/portfolio/p1_1.jpg", "assets/img/portfolio/p1_2.jpg", "assets/img/portfolio/p1_3.jpg", "assets/img/portfolio/p1_4.jpg", "assets/img/portfolio/p1_5.jpg"]
+            }
+        },
+        {
+            "title": "Hybrid Energy Storage System",
+            "descr": "Designed a hybrid energy storage system combining solid-state batteries with supercapacitors for energy systems.",
+            "image_link": "assets/img/portfolio/p2.jpg",
+            "details": {
+                "title": "Hybrid Energy Storage System",
+                "description": "This project explores the integration of solid-state batteries and supercapacitors to develop a next-generation hybrid energy storage system. Solid-state batteries offer high energy density and safety, while supercapacitors provide rapid charge-discharge capabilities. The study focuses on optimizing the synergy between these technologies for enhanced performance and longevity. Key parameters such as energy efficiency, power density, and thermal management are analyzed. Prototyping and testing validate the hybrid system potential for real-world applications. The project aims to revolutionize energy storage solutions for electric vehicles, renewable energy systems, and portable electronics.",
+                "category": "Electronic Materials",
+                "project_date": "Dec 10 2024",
+                "url": "https://docs.google.com/document/d/1-CK605oIq5__xyVSLVfGMw2iWN-mvLdgTHpyFcC1rvY/edit?usp=sharing",
+                "images": ["assets/img/portfolio/p2_1.jpg", "assets/img/portfolio/p2_2.jpg", "assets/img/portfolio/p2_4.jpg", "assets/img/portfolio/p2_3.jpg"]
+            }
+        }
+    ],
+    "certification": [
+        {
+            "title": "Certified Embedded programmer",
+            "descr": "Specialized certification focusing on embedded system design and implementation.",
+            "image_link": "assets/img/portfolio/c1.jpg",
+            "details": {
+                "title": "Certified Embedded programmer",
+                "description": "This certification specializes in the design and implementation of embedded systems, offering a deep dive into both hardware and software integration. It covers the core principles of microcontroller programming, real-time operating systems, and low-level hardware interfacing. Participants gain hands-on experience in developing robust embedded solutions using industry-standard tools and protocols. The curriculum emphasizes designing efficient and reliable systems tailored for specific applications. Key topics include communication protocols, power optimization, and compliance with safety standards like MISRA C. This certification prepares individuals to innovate and excel in the embedded systems industry.",
+                "category": "Embedded Programming",
+                "project_date": "Sep 22 2022",
+                "url": "https://skill-lync.com/profiles/suraj-kumar-k-b-3sj4q",
+                "images": ["assets/img/portfolio/c1.jpg"]
+            }
+        },
+        {
+            "title": "Software verification and validation",
+            "descr": "Specialized expertise in ensuring software reliability through rigorous verification and validation processes.",
+            "image_link": "assets/img/portfolio/c2.jpg",
+            "details": {
+                "title": "Software verification and validation",
+                "description": "Specialized expertise in ensuring software reliability through rigorous verification and validation processes. This involves systematically testing software to identify and eliminate defects, ensuring compliance with industry standards. Key focus areas include functional testing, performance evaluation, and adherence to safety-critical requirements. The process emphasizes creating robust test plans and leveraging automated and manual testing tools. Verification ensures that the software meets design specifications, while validation confirms it fulfills its intended purpose. This expertise is crucial for delivering high-quality, reliable software in applications ranging from embedded systems to enterprise solutions.",
+                "category": "Software verification",
+                "project_date": "Oct 07 2022",
+                "url": "https://skill-lync.com/profiles/suraj-kumar-k-b-3sj4q",
+                "images": ["assets/img/portfolio/c2.jpg"]
+            }
+        },
+        {
+            "title": "AVR Bare metal Programming",
+            "descr": "Specialized training in low-level programming and hardware control using AVR microcontrollers.",
+            "image_link": "assets/img/portfolio/c3.jpg",
+            "details": {
+                "title": "AVR Bare metal Programming",
+                "description": "Specialized training focused on low-level programming and precise hardware control using AVR microcontrollers. The curriculum emphasizes bare-metal programming techniques, enabling direct interaction with hardware registers for optimized performance. Key topics include configuring timers, interrupts, and communication protocols such as SPI, I2C, and UART. Practical exercises involve developing efficient and reliable firmware for real-time embedded applications. This training provides in-depth knowledge of microcontroller architecture and its integration into larger systems. It equips learners with the skills to design, implement, and debug embedded solutions tailored for various industries.",
+                "category": "AVR Bare metal Programming",
+                "project_date": "Oct 28 2022",
+                "url": "https://skill-lync.com/profiles/suraj-kumar-k-b-3sj4q",
+                "images": ["assets/img/portfolio/c3.jpg"]
+            }
+        }
+    ],
+    "publication": [
+        {
+            "title": "INSC Publication on Smart Wearable for Pulmonary fibrosis patient",
+            "descr": "Specialized expertise in developing smart wearables for real-time monitoring and oxygen saturation prediction in pulmonary fibrosis patients.",
+            "image_link": "assets/img/portfolio/pc1.jpg",
+            "details": {
+                "title": "Smart Wearable for Pulmonary fibrosis patient",
+                "description": "Specialized expertise in designing smart wearables for real-time monitoring and oxygen saturation prediction in pulmonary fibrosis patients. The system integrates IoT-enabled sensors to collect and transmit vital health data continuously. Advanced algorithms analyze the data to predict oxygen saturation levels, enabling proactive healthcare interventions. The wearable is designed for ease of use, ensuring comfort and reliability for patients in daily life. The project focuses on leveraging embedded systems, machine learning, and cloud connectivity to enhance patient outcomes. This innovation aims to provide effective remote monitoring solutions for managing chronic respiratory conditions.",
+                "category": "INSC Biomedical Engineering",
+                "publication_date": "April 06 2022",
+                "url": "https://www.insc.in/awards/singleinfo.php?tid=7080",
+                "images": ["assets/img/portfolio/pc1.jpg"]
+            }
+        },
+        {
+            "title": "ICPECTS publication on Smart Wearable for Pulmonary fibrosis patient",
+            "descr": "Specialized expertise in developing smart wearables for real-time monitoring and oxygen saturation prediction in pulmonary fibrosis patients.",
+            "image_link": "assets/img/portfolio/pc2.jpg",
+            "details": {
+                "title": "Smart Wearable for Pulmonary fibrosis patient",
+                "description": "Specialized expertise in designing smart wearables for real-time monitoring and oxygen saturation prediction in pulmonary fibrosis patients. The system integrates IoT-enabled sensors to collect and transmit vital health data continuously. Advanced algorithms analyze the data to predict oxygen saturation levels, enabling proactive healthcare interventions. The wearable is designed for ease of use, ensuring comfort and reliability for patients in daily life. The project focuses on leveraging embedded systems, machine learning, and cloud connectivity to enhance patient outcomes. This innovation aims to provide effective remote monitoring solutions for managing chronic respiratory conditions.",
+                "category": "ICPECTS publication on Biomedical Engineering",
+                "publication_date": "March 06 2022",
+                "url": "https://docs.google.com/document/d/12PqzCPF29VXTSQFDRP-T9dh_hjZF9RY6RCaMwg9aHSM/edit?usp=sharing",
+                "images": ["assets/img/portfolio/pc2.jpg"]
+            }
+        }
+    ]
+}
