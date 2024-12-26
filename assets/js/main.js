@@ -56,7 +56,7 @@
   }
 
   // JSON file path (replace with actual file path or fetch from a server if needed)
-  const jsonFilePath = "/assets/project.json";
+  const jsonFilePath = "assets/project.json";
 
   // Fetch the JSON file and render content
   fetch(jsonFilePath)
