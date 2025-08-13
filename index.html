@@ -135,31 +135,14 @@
     <section id="education" class="education section">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Education</h2>
-        <p>Showcasing a strong academic foundation in Electrical and Computer Engineering, with a focus on advancing knowledge in Microsystems, Materials, and Devices. Dedicated to achieving excellence in both academics and research.</p>
-      </div><!-- End Section Title -->
-    
+        <h2 id="education-title"></h2>
+        <p id="education-description"></p>
+      </div>
+
       <div class="container">
-    
         <div class="row">
-    
-          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-            <div class="resume-item">
-              <h4>Master of Science in Electrical and Computer Engineering</h4>
-              <h5>Expected May 2026</h5>
-              <p><em>Northeastern University, Boston, MA</em></p>
-              <p>Concentration: Microsystems, Materials, and Devices</p>
-              <p>Coursework: Electronic materials, computer architecture, VLSI Design, Solid state devices</p>
-              <p>GPA: 4.0</p>
-            </div><!-- End Resume Item -->
-    
-            <div class="resume-item">
-              <h4>Bachelor of Electrical and Electronics Engineering</h4>
-              <h5>Aug 2018 - May 2022</h5>
-              <p><em>Anna University, Chennai, India</em></p>
-              <p>Strong foundation with microprocessors, power electronics, embedded systems and semi conductors</p>
-              <p>GPA: 3.6</p>
-            </div><!-- End Resume Item -->
+          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100" id="education-items">
+            <!-- Education items populated by JS -->
           </div>
         </div>
       </div>
@@ -169,38 +152,14 @@
     <section id="experience" class="experience section">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Experience</h2>
-        <p>Showcasing practical expertise and academic knowledge in Electrical and Computer Engineering, with a focus on advancing skills in hardware design, embedded systems, and automotive electronics.</p>
-      </div><!-- End Section Title -->
+        <h2 id="experience-title"></h2>
+        <p id="experience-description"></p>
+      </div>
 
       <div class="container">
-
         <div class="row">
-
-          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-            <div class="resume-item">
-              <h4>Skilled Graduate Engineer</h4>
-              <h5>Jan 2023 - June 2024</h5>
-              <p><em>Tata Technologies, Pune</em></p>
-              <ul>
-                <li>Developed a gas leakage detection system interfaced with CAN communication for compressed natural gas vehicles.</li>
-                <li>Led electromagnetic compatibility (EMC) testing for intelligent battery management systems (BMS).</li>
-                <li>Designed analog front-end circuits for gas detection systems with real-time CAN-based monitoring.</li>
-                <li>Managed embedded system projects, specializing in hardware-software integration and automotive electronics.</li>
-              </ul>
-            </div><!-- End Resume Item -->
-
-            <div class="resume-item">
-              <h4>Embedded Engineer Intern</h4>
-              <h5>July 2022 - Dec 2022</h5>
-              <p><em>Skill-Lync E-learning Company, Chennai</em></p>
-              <ul>
-                <li>Developed embedded systems using Embedded C and AVR bare-metal programming.</li>
-                <li>Simulated and analyzed analog and RF circuits for noise and impedance optimization.</li>
-                <li>Designed PCBs with RF matching networks and worked on SoC architecture to optimize system-level performance.</li>
-              </ul>
-            </div><!-- End Resume Item -->
-
+          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100" id="experience-items">
+            <!-- Experience items populated by JS -->
           </div>
         </div>
       </div>
@@ -384,8 +343,10 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Main JS File -->
-  <script src="assets/js/skills.js"></script>
   <script src="assets/js/about.js"></script>
+  <script src="assets/js/skills.js"></script>
+  <script src="assets/js/education.js"></script>
+  <script src="assets/js/experience.js"></script>
   <script src="assets/js/main.js"></script>
 
 </body>

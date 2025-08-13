@@ -1,0 +1,27 @@
+{
+    "title": "Experience",
+    "description": "Showcasing practical expertise and academic knowledge in Electrical and Computer Engineering, with a focus on advancing skills in hardware design, embedded systems, and automotive electronics.",
+    "items": [
+        {
+            "role": "Skilled Graduate Engineer",
+            "date": "Jan 2023 - June 2024",
+            "company": "Tata Technologies, Pune",
+            "tasks": [
+                "Developed a gas leakage detection system interfaced with CAN communication for compressed natural gas vehicles.",
+                "Led electromagnetic compatibility (EMC) testing for intelligent battery management systems (BMS).",
+                "Designed analog front-end circuits for gas detection systems with real-time CAN-based monitoring.",
+                "Managed embedded system projects, specializing in hardware-software integration and automotive electronics."
+            ]
+        },
+        {
+            "role": "Embedded Engineer Intern",
+            "date": "July 2022 - Dec 2022",
+            "company": "Skill-Lync E-learning Company, Chennai",
+            "tasks": [
+                "Developed embedded systems using Embedded C and AVR bare-metal programming.",
+                "Simulated and analyzed analog and RF circuits for noise and impedance optimization.",
+                "Designed PCBs with RF matching networks and worked on SoC architecture to optimize system-level performance."
+            ]
+        }
+    ]
+}
