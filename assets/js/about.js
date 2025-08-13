@@ -8,9 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then((data) => {
             // Header section
             document.getElementById("name").textContent = data.name;
-            document
-                .getElementById("typed")
-                .setAttribute("data-typed-items", data.typedItems.join(", "));
+            document.getElementById("typed").setAttribute("data-typed-items", data.typedItems.join(", "));
 
             // About section
             document.getElementById("summary").textContent = data.summary;
@@ -38,14 +36,14 @@ document.addEventListener("DOMContentLoaded", () => {
             const rightCol = document.createElement("div");
             rightCol.className = "col-lg-6";
             rightCol.innerHTML = `<ul>
-        ${data.personalInfo.right
-            .map(
-                (item) => `
-          <li><i class="bi bi-chevron-right"></i> <strong>${item.label}:</strong> <span>${item.value}</span></li>
-        `
-            )
-            .join("")}
-      </ul>`;
+                    ${data.personalInfo.right
+                        .map(
+                            (item) => `
+                    <li><i class="bi bi-chevron-right"></i> <strong>${item.label}:</strong> <span>${item.value}</span></li>
+                    `
+                        )
+                        .join("")}
+                </ul>`;
 
             personalInfoContainer.appendChild(leftCol);
             personalInfoContainer.appendChild(rightCol);
