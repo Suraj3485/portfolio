@@ -1,0 +1,29 @@
+{
+    "name": "Suraj Kumar",
+    "typedItems": ["Hardware Engineer", "VLSI Engineer"],
+    "mainRole": "Electrical & Computer Engineer",
+    "summary": "I am an innovative problem-solver with a strong foundation in Electrical and Computer Engineering, driven by a passion for system design, optimization, and real-world applications. My work bridges the gap between academia and industry, ensuring impactful results in all endeavors. Highly motivated and inquisitive graduate looking for opportunity in the field of digital VLSI - ASIC, Semiconductor or Physical design and verification with an opportunity to mutually develop by enhancing my professional and personal skills.",
+    "profileImage": "assets/img/about.jpg",
+    "jobTitle": "VLSI Engineer & Hardware Designer.",
+    "introText": "With expertise in Embedded systems, VLSI design, SoC architecture, and cutting-edge technologies, I thrive on crafting reliable and efficient solutions for diverse challenges.",
+    "personalInfo": {
+        "left": [
+            { "label": "Birthday", "value": "20 April 2001" },
+            { "label": "Phone", "value": "+1 (617)-602-7188" },
+            { "label": "City", "value": "Boston, MA, USA" },
+            {
+                "label": "Hobbies",
+                "value": "Photography, Reading tech blogs & Traveling"
+            }
+        ],
+        "right": [
+            { "label": "Age", "value": "23" },
+            {
+                "label": "Degree",
+                "value": "Master's in Electrical and Computer Engineering"
+            },
+            { "label": "Email", "value": "kadiyambalaji.s@northeastern.edu" }
+        ]
+    },
+    "closingText": "My academic journey and professional experience are underscored by impactful projects, ranging from embedded systems to benchmarking advanced processor architectures. Aiming to innovate and excel, I combine analytical skills with hands-on expertise to drive meaningful advancements in technology."
+}
