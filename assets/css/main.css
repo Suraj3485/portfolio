@@ -1288,37 +1288,60 @@ section,
     color: white !important;
 }
 
+.skills-content {
+    justify-content: center; /* Centers the Bootstrap columns */
+}
+
 .skills-content .skill-card {
-    border: 2px solid aqua;
-    border-radius: 10px;
+    background: rgba(20, 20, 20, 0.4);
+    border: 1px solid rgba(0, 255, 255, 0.3);
+    border-radius: 16px;
     padding: 20px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s;
+    min-height: 150px;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    color: #e0f7fa;
+    height: 100%;
 }
 
 .skills-content .skill-card:hover {
-    transform: translateY(-10px);
-    background-color: #7a4ff0;
-    color: white;
+    transform: translateY(-8px) scale(1.02);
+    background: linear-gradient(135deg, #0a0f1c, #1b2a4a);
+    border-color: aqua;
+    box-shadow: 0 12px 25px rgba(0, 255, 255, 0.2);
 }
 
 .skills-content .skill-card h4 {
-    font-size: 1.25rem;
-    margin-bottom: 10px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 12px;
     color: aqua;
-}
-
-.skills-content .skill-card:hover h4 {
-    color: aqua;
+    text-shadow: 0 0 6px rgba(0, 255, 255, 0.5);
 }
 
 .skills-content .skill-card p {
     font-size: 1rem;
-    color: white;
+    line-height: 1.6;
+    color: #f1f1f1;
+}
+
+.skills-content .skill-card:hover h4 {
+    color: #00e6e6;
 }
 
 .skills-content .skill-card:hover p {
-    color: #fff;
+    color: #e0ffff;
+}
+
+/* Make it one column on small screens */
+@media (max-width: 768px) {
+    .skills-content .col-lg-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 }
 
 #portfolio-details-popup {

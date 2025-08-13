@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Programming Languages",
+        "description": "Embedded C, C, C++, Python, Verilog, SystemVerilog, MATLAB"
+    },
+    {
+        "title": "Tools",
+        "description": "Cadence Design Suite, HFSS, LTSpice, BRISC V, Microchip Studio, dinero IV"
+    },
+    {
+        "title": "ASIC Design and Verification",
+        "description": "Knowledge of ASIC implementation and GPU pipelines"
+    },
+    {
+        "title": "Testing & Debugging",
+        "description": "LDRA Testsuite-TBRUN, TBVISION"
+    },
+    {
+        "title": "Communication Protocols and Concepts",
+        "description": "CAN, SPI, I2C, RF/Analog Design, Microwave Theory"
+    },
+    {
+        "title": "Frameworks",
+        "description": "Tensorflow, Pytorch"
+    },
+    {
+        "title": "SoC Architecture",
+        "description": "Understanding of components like CPU, GPU, DSP, interconnects, memory controllers"
+    },
+    {
+        "title": "Verification Methodologies",
+        "description": "Hands-on experience with UVM, debugging"
+    }
+]
