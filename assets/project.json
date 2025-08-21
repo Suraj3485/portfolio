@@ -28,7 +28,7 @@
         },
         {
             "title": "Design and Implementation of a 32-Bit ALU in 180nm CMOS Using Cadence",
-            "descr": "Designed and implemented a 32-bit ALU in 180nm CMOS using Cadence, applying Back Gate Forward Substrate Biasing to reduce delay by ~40% and verifying performance via Spectre simulations.",
+            "descr": "Optimized and verified the design of a 32-bit ALU in 180nm CMOS technology, reducing delay by approximately 40% through Back Gate Forward Substrate Biasing.",
             "image_link": "assets/img/portfolio/p1.jpg",
             "details": {
                 "title": "Design and Implementation of a 32-Bit ALU in 180nm CMOS Using Cadence",
