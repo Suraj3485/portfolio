@@ -3,7 +3,18 @@
     "description": "Showcasing practical expertise and academic knowledge in Electrical and Computer Engineering, with a focus on advancing skills in hardware design, embedded systems, and automotive electronics.",
     "items": [
         {
-            "role": "Skilled Graduate Engineer",
+            "role": "Electrical Design Engineer",
+            "date": "Jan 2023 - June 2024",
+            "company": "Tata Technologies, Pune",
+            "tasks": [
+                "Developed a gas leakage detection system interfaced with CAN communication for compressed natural gas vehicles.",
+                "Led electromagnetic compatibility (EMC) testing for intelligent battery management systems (BMS).",
+                "Designed analog front-end circuits for gas detection systems with real-time CAN-based monitoring.",
+                "Managed embedded system projects, specializing in hardware-software integration and automotive electronics."
+            ]
+        },
+        {
+            "role": "Electrical Design Engineer",
             "date": "Jan 2023 - June 2024",
             "company": "Tata Technologies, Pune",
             "tasks": [
