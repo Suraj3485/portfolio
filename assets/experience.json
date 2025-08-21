@@ -16,10 +16,10 @@
             "date": "Jan 2023 - June 2024",
             "company": "Tata Technologies, Pune",
             "tasks": [
-                "Developed a gas leakage detection system interfaced with CAN communication for compressed natural gas vehicles.",
-                "Led electromagnetic compatibility (EMC) testing for intelligent battery management systems (BMS).",
-                "Designed analog front-end circuits for gas detection systems with real-time CAN-based monitoring.",
-                "Managed embedded system projects, specializing in hardware-software integration and automotive electronics."
+                "Tested and validated instrument clusters using CAN, SPI, UART, and I2C tools to meet performance and safety specs, reducing field failures by 20% through simulation, diagnostic testing, and system validation.",
+                "Performed signal integrity checks and EMI/EMC compliance testing using STM32 IDE, oscilloscope, and logic analyzers.",
+                "Collaborated with cross-functional teams to troubleshoot analog front-end interfaces, reducing design cycle time.",
+                "Collaborated with electrical and mechanical teams to resolve system integration issues and Cut fault diagnosis time by 30% using STM32 IDE, oscilloscope and logic analyser tools."
             ]
         },
         {
