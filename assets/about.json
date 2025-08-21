@@ -13,11 +13,11 @@
             { "label": "City", "value": "Boston, MA, USA" },
             {
                 "label": "Hobbies",
-                "value": "Photography, Reading tech blogs & Traveling"
+                "value": "I stay up-to-date with the latest industry trends by reading tech blogs"
             }
         ],
         "right": [
-            { "label": "Age", "value": "23" },
+            { "label": "Age", "value": "24" },
             {
                 "label": "Degree",
                 "value": "Master's in Electrical and Computer Engineering"
@@ -25,5 +25,5 @@
             { "label": "Email", "value": "kadiyambalaji.s@northeastern.edu" }
         ]
     },
-    "closingText": "My academic journey and professional experience are underscored by impactful projects, ranging from embedded systems to benchmarking advanced processor architectures. Aiming to innovate and excel, I combine analytical skills with hands-on expertise to drive meaningful advancements in technology."
+    "closingText": "My academic journey and professional experience are defined by impactful projects, from the ground-up design of a 32-bit ALU to benchmarking advanced processor architectures. I am driven to innovate and excel, combining my analytical skills with hands-on expertise to push the boundaries of technology"
 }
