@@ -25,6 +25,19 @@
                 "url": "https://docs.google.com/document/d/1-CK605oIq5__xyVSLVfGMw2iWN-mvLdgTHpyFcC1rvY/edit?usp=sharing",
                 "images": ["assets/img/portfolio/p2_1.jpg", "assets/img/portfolio/p2_2.jpg", "assets/img/portfolio/p2_4.jpg", "assets/img/portfolio/p2_3.jpg"]
             }
+        },
+        {
+            "title": "Design and Implementation of a 32-Bit ALU in 180nm CMOS Using Cadence",
+            "descr": "Designed and implemented a 32-bit ALU in 180nm CMOS using Cadence Virtuoso, applying Back Gate Forward Substrate Biasing to reduce delay by ~40% and verifying performance via Spectre simulations.",
+            "image_link": "assets/img/portfolio/p1.jpg",
+            "details": {
+                "title": "Design and Implementation of a 32-Bit ALU in 180nm CMOS Using Cadence",
+                "description": "This project focuses on benchmarking and analyzing the performance of x86 and Apple ARM architectures to evaluate their efficiency and scalability. It examines key factors like CPU and GPU performance, memory hierarchy, pipeline design, and branch prediction. Real-world application workloads are tested to assess suitability for diverse computing tasks. The study also explores power consumption, heat generation, and overclocking capabilities. Insights into architectural strengths and optimization strategies are highlighted. The project aims to provide a comprehensive understanding of trade-offs between these architectures for various computational scenarios.",
+                "category": "Computer Architecture",
+                "project_date": "Dec 10 2024",
+                "url": "https://docs.google.com/document/d/1DgQIkJp_07UntbbeuG7VQQlK1u5draEE4CyfhejUYEs/edit?usp=sharing",
+                "images": ["assets/img/portfolio/p1_1.jpg", "assets/img/portfolio/p1_2.jpg", "assets/img/portfolio/p1_3.jpg", "assets/img/portfolio/p1_4.jpg", "assets/img/portfolio/p1_5.jpg"]
+            }
         }
     ],
     "certification": [
