@@ -12,23 +12,15 @@
         "description": "Knowledge of ASIC implementation and GPU pipelines"
     },
     {
-        "title": "Testing & Debugging",
-        "description": "LDRA Testsuite-TBRUN, TBVISION"
-    },
-    {
         "title": "Communication Protocols and Concepts",
-        "description": "CAN, SPI, I2C, RF/Analog Design, Microwave Theory"
-    },
-    {
-        "title": "Frameworks",
-        "description": "Tensorflow, Pytorch"
+        "description": "CAN, SPI, I2C, RF/Analog Design"
     },
     {
         "title": "SoC Architecture",
-        "description": "Understanding of components like CPU, GPU, DSP, interconnects, memory controllers"
+        "description": "Understanding of components like CPU, GPU, Interconnects, Memory Controllers"
     },
     {
         "title": "Verification Methodologies",
-        "description": "Hands-on experience with UVM, debugging"
+        "description": "Hands-on experience with UVM debugging"
     }
 ]
