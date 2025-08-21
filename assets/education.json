@@ -7,14 +7,14 @@
             "date": "Expected May 2026",
             "institution": "Northeastern University, Boston, MA",
             "concentration": "Microsystems, Materials, and Devices",
-            "coursework": "Electronic materials, computer architecture, VLSI Design, Solid state devices",
+            "coursework": "Electronic materials, computer architecture, VLSI Design, Solid state devices, Analog Integrated Circuit Design, Biomedical Microsystems",
             "gpa": "4.0"
         },
         {
             "degree": "Bachelor of Electrical and Electronics Engineering",
             "date": "Aug 2018 - May 2022",
             "institution": "Anna University, Chennai, India",
-            "description": "Strong foundation with microprocessors, power electronics, embedded systems and semi conductors",
+            "description": "Strong foundation with microprocessors, power electronics, embedded systems, semi conductors, Digital Signal Processing",
             "gpa": "3.6"
         }
     ]
