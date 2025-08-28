@@ -38,6 +38,19 @@
                 "url": "https://docs.google.com/document/d/1u-7egwMKSzSuaBCLFynngQ7bwhluueMgaRYLL1-prk8/edit?usp=sharing",
                 "images": ["assets/img/portfolio/p3_1.jpg", "assets/img/portfolio/p3_5.jpg", "assets/img/portfolio/p3_3.jpg", "assets/img/portfolio/p3_4.jpg", "assets/img/portfolio/p3_2.jpg"]
             }
+        },
+        {
+            "title": "FinFET Technology for Analog and RF Applications",
+            "descr": "Explored FinFET innovations enabling efficient, high-speed analog RF systems.",
+            "image_link": "assets/img/portfolio/p4.jpg",
+            "details": {
+                "title": "FinFET Technology for Analog and RF Applications",
+                "description": "Analyzed FinFET transistor architecture, fabrication, and physics for analog/RF use. Evaluated noise, frequency performance, and future scalability. Compared FinFETs with emerging devices, highlighting suitability for 5G and high-frequency systems.",
+                "category": "Solid State Devices",
+                "project_date": "Apr 06 2025",
+                "url": "https://docs.google.com/document/d/1684PHZP_8p2UIl0vi4pk53JqPjggTYgR3asBvkCJzm4/edit?usp=sharing",
+                "images": ["assets/img/portfolio/p4_1.jpg", "assets/img/portfolio/p4_2.jpg", "assets/img/portfolio/p4_3.jpg", "assets/img/portfolio/p4_4.jpg"]
+            }
         }
     ],
     "certification": [
