@@ -35,7 +35,7 @@
                 "description": "Designed and implemented a 32-bit ALU in 180nm CMOS using Cadence Virtuoso by scaling custom 1-bit ALU blocks. The project applied Back Gate Forward Substrate Biasing to reduce delay by approximately 40% and improve switching speed. Performance was verified via Spectre simulations using hierarchical schematics and testbenches.",
                 "category": "VLSI Design",
                 "project_date": "Mar 22 2025",
-                "url": "https://docs.google.com/document/d/1DgQIkJp_07UntbbeuG7VQQlK1u5draEE4CyfhejUYEs/edit?usp=sharing",
+                "url": "https://docs.google.com/document/d/1u-7egwMKSzSuaBCLFynngQ7bwhluueMgaRYLL1-prk8/edit?usp=sharing",
                 "images": ["assets/img/portfolio/p3_1.jpg", "assets/img/portfolio/p3_5.jpg", "assets/img/portfolio/p3_3.jpg", "assets/img/portfolio/p3_4.jpg", "assets/img/portfolio/p3_2.jpg"]
             }
         }
