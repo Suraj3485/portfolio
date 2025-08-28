@@ -14,7 +14,7 @@
         {
             "role": "Electrical Design Engineer",
             "date": "Jan 2023 - June 2024",
-            "company": "Tata Technologies, Pune",
+            "company": "Tata Motors, Pune",
             "tasks": [
                 "Tested and validated instrument clusters using CAN, SPI, UART, and I2C tools to meet performance and safety specs, reducing field failures by 20% through simulation, diagnostic testing, and system validation.",
                 "Performed signal integrity checks and EMI/EMC compliance testing using STM32 IDE, oscilloscope, and logic analyzers.",
