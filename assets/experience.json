@@ -3,6 +3,17 @@
     "description": "Showcasing practical expertise and academic knowledge in Electrical and Computer Engineering, with a focus on advancing skills in hardware design, embedded systems, and automotive electronics.",
     "items": [
         {
+            "role": "Electrical Engineer Coop",
+            "date": "Jan 2026 - June 2026",
+            "company": "SharkNinja, MA",
+            "tasks": [
+                "Built an automated log-analysis dashboard in Python for RV2900 robot vacuums, reducing fault investigation time from hours to minutes while achieving 100% fault recall.",
+                "Replicated and debugged a three-transistor IR cliff-sensor driver circuit in LTspice, refining pulse timing and component selection to match real hardware behavior.",
+                "Designed capacitive-sensing (cap-sense) PCBs for floor detection in Altium, developing schematics and layouts for reliable surface sensing on robotic platforms.",
+                "Worked as part of the Robotics Team at SharkNinja, bridging embedded software tools with hardware-level circuit debugging and PCB design."
+            ]
+        },
+        {
             "role": "Teaching Assistant",
             "date": "Jan 2025 - Present",
             "company": "Northeastern University - Fundamentals of Electronics",
