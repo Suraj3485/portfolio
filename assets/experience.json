@@ -23,8 +23,8 @@
             ]
         },
         {
-            "role": "Hardware Engineer",
-            "date": "Jan 2023 - June 2024",
+            "role": "Graduate Electrical Engineer",
+            "date": "Jan 2023 - June 2023",
             "company": "Tata Motors, Pune",
             "tasks": [
                 "Tested and validated instrument clusters using CAN, SPI, UART, and I2C tools to meet performance and safety specs, reducing field failures by 20% through simulation, diagnostic testing, and system validation.",
